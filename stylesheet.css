@@ -47,7 +47,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-   background-image: url(4545909.webp);
+   background-image:"4545909.webp";
   background-size: cover;
   color: rgba(255, 255, 255, 0.897);
   text-align: center;
