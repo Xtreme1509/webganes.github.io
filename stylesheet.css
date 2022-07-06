@@ -55,7 +55,7 @@ a {
 
 .top-wrapper1 {
   padding: 100px 0 100px 0;
-  background-image: url(wallpapersden.com_just-a-tree_1920x1080.jpg);
+  background-image: "wallpapersden.com_just-a-tree_1920x1080.jpg";
   background-size: cover;
   color: RED;
   text-align: center;
